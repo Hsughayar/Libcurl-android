@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LibcurlTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="go">Go</string>
+    <string name="requestAPage">Type a url in and hit go</string>
+</resources>
